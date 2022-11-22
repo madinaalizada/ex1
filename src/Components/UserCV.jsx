@@ -6,6 +6,7 @@ import Contacts from './Contacts';
 const UserCV = () => {
   return (
     <>
+    <h1>CV</h1>
      <PersonalInfo/>
      <Experience/>
      <Contacts/>
